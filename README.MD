@@ -2,6 +2,8 @@
 
 This repository is dedicated to providing easy access to the latest releases of our desktop application. Whether you're a user looking to download the latest version or interested in our release history, you'll find all the information you need here.
 
+![Desktop app](https://github.com/webhookify-app/desktop/blob/main/app.png?raw=true)
+
 ## Table of Contents
 
 - [About the Application](#about-the-application)
